@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
+  "home": "https://wptechprodigy/github.io/digiclock",
   "author": "",
   "license": "ISC",
   "dependencies": {
