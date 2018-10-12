@@ -12,7 +12,7 @@ body {
 
 #main {
   background: #ccc;
-  width: 420px;
+  width: 430px;
   height: 175px;
   margin: 15% auto;
   position: relative;
@@ -39,7 +39,7 @@ body {
   font-family: Orbitron, Segoe UI;
   font-size: 55px;
   padding-top: 35px;
-  padding-left: 15px;
+  padding-left: 10px;
   border-radius: 4px;
   box-shadow: 0 0 5px;
 }
